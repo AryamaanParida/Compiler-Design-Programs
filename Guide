@@ -1,0 +1,9 @@
+This repository contains programs related to Compiler Design and Theory of Computation
+
+The programs can execute/depict the following:
+1) File Operations/File Handling
+2) Lexical Analysis
+3) Converting a Regular Expression to a Non-Deterministic Finite Automata
+4) Converting a Non-Deterministic Finite Automata to a Deterministic Finite Automata
+5) Shift Reduce Parsing
+6) LR(0)
